@@ -1,0 +1,13 @@
+.idea
+
+bin/
+
+obj/
+
+Properties/
+
+*.csproj
+
+*.sln
+
+Program.cs
